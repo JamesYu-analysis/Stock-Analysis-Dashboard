@@ -4,3 +4,4 @@ plotly
 pandas
 reportlab
 tabulate
+matplotlib.pyplot
