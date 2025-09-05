@@ -62,3 +62,16 @@ The dashboard provides:
 ```bash
 git clone https://github.com/JamesYu-analysis/your-repo-name.git
 cd your-repo-name
+```
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the app
+```bash
+streamlit run streamlit_app.py
+```
+4. Deploy on Streamlit Cloud (optional)
+	•	Push your code to GitHub.
+	•	Connect your repository to Streamlit Cloud.
+	•	Deploy and share your app with a public URL.
