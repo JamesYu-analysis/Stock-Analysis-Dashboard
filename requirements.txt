@@ -1,6 +1,10 @@
 streamlit
+matplotlib
 yfinance
-plotly
 pandas
-reportlab
+plotly
 tabulate
+numpy
+selenium
+undetected-chromedriver
+
