@@ -7,7 +7,6 @@ tabulate
 numpy
 selenium
 undetected-chromedriver
-python-3.11
 
 
 
